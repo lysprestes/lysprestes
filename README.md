@@ -1,4 +1,4 @@
-<h2 text-align= "center">Hi there 👋 I'm Lys</h2>
+<h2 text-align= "center">Hi there 👋 I'm Lys 👩🏻‍💻 </h2>
 
 <!--
 **lysprestes/lysprestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m exploring Full Stack Development
 - 🇨🇦 Living in the Greater Toronto Area, Canada
 - 🍎 Beginner mindset (open to learning)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a great cook
 
 **I use daily:**
