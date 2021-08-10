@@ -34,11 +34,9 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 &emsp; 
 </p>
 
-
 <br/>
 
 ## 📊 Github Stats (Expand to View) 
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -46,7 +44,6 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
   <p align="center">
     <a href="https://github.com/lysprestes"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lysprestes&show_icons=true&locale=en&theme=tokyonight" alt="lysprestes" height="192px"/></a>
 	</p>
-
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
