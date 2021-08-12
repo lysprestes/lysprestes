@@ -10,7 +10,6 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 
 ## 🛠️ My Skills
 
-****
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
