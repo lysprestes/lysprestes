@@ -10,7 +10,7 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lysprestes&theme=tokyonight" alt="lysprestes" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysprestes&theme=tokyonight" alt="lysprestes" /></p>
 
 ## 🛠️ My Skills
 
