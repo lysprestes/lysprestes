@@ -1,6 +1,7 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lys 👩🏻‍💻 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Web+Developer;Always+learning+new+things;Nice+to+meet+you"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lysprestes&theme=tokyonight)](https://git.io/streak-stats)
+"></a>
 </p>
 <hr/>
 <h4 align="center">
@@ -9,10 +10,11 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lysprestes&theme=tokyonight" alt="lysprestes" /></p>
+<p align="center"><img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=lysprestes&theme=tokyonight)" alt="lysprestes" /></p>
 
 ## 🛠️ My Skills
 
+****
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
