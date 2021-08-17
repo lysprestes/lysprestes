@@ -49,7 +49,7 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
   <summary><b>💫 Top Languages</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/lysprestes"><img alt="Lys's top used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysprestes&layout=compact&theme=tokyonight"/></a>
+    <a href="https://github.com/lysprestes"><img alt="Lys's top used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysprestes&layout=compact&theme=tokyonight" alt="lysprestes" height="192px"/></a>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
