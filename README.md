@@ -1,10 +1,12 @@
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lys 👩🏻‍💻 </h1>
+<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Lys 👩🏻‍💻 </h1>
 
 <h4 align="center">
-I am a natural problem solver and I'm deeply interested in understanding how things work.
-I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. <br>
-⚡ Fun fact: I'm a great cook</h4>
+I am a natural problem solver and I'm deeply interested in understanding how things work. <br>
+I like to Code, Design, Innovate and Experiment. <br>
+I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.<br>
+I love meeting new people, exchanging ideas and spreading knowledge and positivity. <br>
 <br>
+⚡ Fun fact: I'm a great cook</h4> <br>
 
 ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysprestes&theme=tokyonight" alt="lysprestes" /></p>
@@ -87,5 +89,4 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lysprestes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lysprestes)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Hikari#1477)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lysprestes)
 </p>
