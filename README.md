@@ -1,6 +1,7 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lys 👩🏻‍💻 </h1>
 
 <h4 align="center">
+I am a natural problem solver and I'm deeply interested in understanding how things work.
 I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. <br>
 ⚡ Fun fact: I'm a great cook</h4>
 <br>
