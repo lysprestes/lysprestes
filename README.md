@@ -16,35 +16,35 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://git-scm.com/" target="blank"> 
+  <a href="https://git-scm.com/" target="_blank"> 
    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
   </a>
   &emsp; 
-  <a href="https://www.w3schools.com/html/" target="blank"> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="blank">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
   </a>
   &emsp;
-  <a href="https://www.figma.com/" target="blank">
+  <a href="https://www.figma.com/" target="_blank">
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/js/" target="blank">
+  <a href="https://www.w3schools.com/js/" target="_blank">
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat">
   </a> 
    &emsp;
-   <a href="https://getbootstrap.com/" target="blank">
+   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat">
   </a> 
    &emsp;
-  <a href="https://reactjs.org/" target="blank"> 
+  <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
   </a>
 &emsp; 
-  <a href="https://redux.js.org/" target="blank"> 
+  <a href="https://redux.js.org/" target="_blank"> 
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-7858b8?logo=redux&logoColor=white&style=flat">
   </a>
 &emsp; 
