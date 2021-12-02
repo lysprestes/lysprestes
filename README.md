@@ -16,34 +16,65 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/git/" target="_blank"> 
+  <a href="https://git-scm.com/" target="blank"> 
    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
   </a>
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/html/" target="blank"> 
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="blank">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
   </a>
   &emsp;
-  <a href="https://figma.com/" target="_blank">
+  <a href="https://www.figma.com/" target="blank">
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/javascript/" target="_blank">
+  <a href="https://www.w3schools.com/js/" target="blank">
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat">
   </a> 
    &emsp;
-   <a href="https://getbootstrap.com" target="_blank">
+   <a href="https://getbootstrap.com/" target="blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat">
   </a> 
    &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://reactjs.org/" target="blank"> 
     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
   </a>
 &emsp; 
+  <a href="https://redux.js.org/" target="blank"> 
+   <img alt="Redux" src="https://img.shields.io/badge/-Redux-7858b8?logo=redux&logoColor=white&style=flat">
+  </a>
+&emsp; 
+</p>
+
+<br/>
+
+### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.docker.com" target="_blank"> 
+   <img alt="Docker" src="https://img.shields.io/badge/-Docker-6ab6f0?logo=docker&logoColor=white&style=flat">
+  </a>
+  &emsp; 
+  <a href="https://www.mysql.com" target="_blank"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e09a2d?logo=mysql&logoColor=white&style=flat">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org" target="_blank"> 
+   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-95c868?logo=node.js&logoColor=white&style=flat">
+  </a>
+  &emsp;
+<a href="https://www.typescriptlang.org" target="_blank"> 
+   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-174ea6?logo=typescript&logoColor=white&style=flat">
+  </a>
+  &emsp;
+<a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-69ac62?logo=mongodb&logoColor=white&style=flat">
+  </a>
+  &emsp; 
 </p>
 
 <br/>
