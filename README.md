@@ -49,7 +49,6 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
   </a>
 &emsp; 
 </p>
-
 <br/>
 
 ### 👉 Backend Development
@@ -90,7 +89,6 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
   <br/>
 </details>
 
-
 <details> 
   <summary><b>💫 Top Languages</b></summary>
   <br/>
@@ -102,20 +100,16 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
   </p>
 </details>
 
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/lysprestes"><img alt="Lys's Activity Graph" align="center" src="https://activity-graph.herokuapp.com/graph?username=lysprestes&custom_title=Lys%20Prestes's%20Contribution%20Graph&theme=react-dark" alt="lysprestes"/></a>
   <br/>
-
 </details>
-
 <br/>
 
 ## 🙋🏻‍♀️ Let's Connect
 <p align="center">
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lysprestes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lysprestes)
