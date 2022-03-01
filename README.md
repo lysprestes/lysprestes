@@ -78,7 +78,7 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -93,7 +93,7 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
     <a href="https://github.com/lysprestes"><img alt="Lys's top used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysprestes&layout=compact&theme=tokyonight" alt="lysprestes" width="495px"/></a>
 	</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <small><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</small>
   </p>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
