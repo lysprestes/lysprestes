@@ -80,16 +80,13 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 
 ## 📊 Github Stats (Expand to View) 
 
-<details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/lysprestes"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lysprestes&show_icons=true&locale=en&theme=tokyonight" alt="lysprestes" alt="lysprestes" width="495px"/></a>
 	</p>
   <br/>
-</details>
 
-<details> 
   <summary><b>💫 Top Languages</b></summary>
   <br/>
   <p align="center">
@@ -98,14 +95,11 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
-<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/lysprestes"><img alt="Lys's Activity Graph" align="center" src="https://activity-graph.herokuapp.com/graph?username=lysprestes&custom_title=Lys%20Prestes's%20Contribution%20Graph&theme=react-dark" alt="lysprestes"/></a>
   <br/>
-</details>
 <br/>
 
 ## 🙋🏻‍♀️ Let's Connect
