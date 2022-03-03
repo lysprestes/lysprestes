@@ -69,10 +69,6 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 <a href="https://www.typescriptlang.org" target="_blank"> 
    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-174ea6?logo=typescript&logoColor=white&style=flat">
   </a>
-  &emsp;
-<a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-69ac62?logo=mongodb&logoColor=white&style=flat">
-  </a>
   &emsp; 
 </p>
 
