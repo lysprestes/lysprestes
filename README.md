@@ -1,12 +1,18 @@
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Lys 👩🏻‍💻 </h1>
+<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </br>I'm Lys!</h1>
 
-<h4 align="center">
-I am a natural problem solver and I'm deeply interested in understanding how things work. <br>
-I like to Code, Design and Innovate. <br>
-I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.<br>
-I love meeting new people, exchanging ideas and spreading knowledge and positivity. <br>
+<div align="center">
+💼 I'm a software engineer </br>
+with experience in front-end development using JavaScript frameworks  </br>such as React.JS and Vue.JS, </br>
+and back-end development using .Net Framework and C#. </br>
+I'm a great team player and comunicator. </br>
+My Previous experiences taught with how to work with agile rituals and DevOps best practices. </br>
+I love challenges and problem solving, thinking analytically, and valuing code quality and user experience. </br>
+I'm a data driven person and i'm always ready to learn new tools and languages! 👩🏻‍💻 
+
+
 <br>
 ⚡ Fun fact: I'm a great cook</h4> <br>
+</div>
 
 ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysprestes&theme=tokyonight" alt="lysprestes" /></p>
